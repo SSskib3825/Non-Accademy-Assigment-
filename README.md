@@ -29,7 +29,6 @@ Shariar Sakib
 Data Analyst | Excel & Power BI Enthusiast  
 📍 Khagrachhari, Bangladesh  
 📧 shariarsakib.rmstu@gmail.com
-📝 License
 
 This project is open for educational and portfolio purposes. Feel free to fork, adapt, or reference it with proper credit.
 
